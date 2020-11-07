@@ -1,0 +1,36 @@
+.parallax{
+
+  background-image: url("tree.png");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:1000px;
+  background-color:lightblue;
+  font-size:36px
+}
+
+p{
+  display: flex;
+  justify-content: center;
+  color: #000000;
+  font-size: 80px;
+  font-family: 'Big Shoulders Stencil Text', cursive;
+
+}
+
+h1{
+
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  color: #fae0df;
+}
+
+.box{
+
+  height: 50vh;
+  background-color: #16a596;
+}
